@@ -26815,7 +26815,7 @@
 	  return React.createElement(
 	    'h3',
 	    null,
-	    'Examples Component 646 '
+	    'Examples Component page\'s '
 	  );
 	};
 
