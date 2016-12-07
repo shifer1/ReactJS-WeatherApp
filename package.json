@@ -1,13 +1,13 @@
 {
-  "name": "boilerplate",
+  "name": "simple react app",
   "version": "1.0.0",
   "description": "Simple react app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm server.js"
+    "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Saeed GB",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
